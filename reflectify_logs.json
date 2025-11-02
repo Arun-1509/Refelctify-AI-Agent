@@ -1,0 +1,4032 @@
+[
+  {
+    "date": "2025-11-02 06:33:21",
+    "raw_text": "had classes till the afternoon. slept for some time. felt productive but tired. went for a run in the evening",
+    "reflection": {
+      "summary": "had classes till the afternoon. slept for some time.",
+      "suggestions": [
+        "Include a short restorative activity (20-min walk or break) tomorrow."
+      ],
+      "activities": [
+        "had classes till the afternoon",
+        "slept for some time",
+        "felt productive but tired",
+        "went for a run in the evening"
+      ],
+      "mood_score": 0.3,
+      "subjectivity": 0.7,
+      "polarity": -0.4
+    },
+    "rag_retrieved": [],
+    "planned_goals": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "type": "productivity",
+        "priority": 1
+      },
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "type": "wellness",
+        "priority": 3
+      }
+    ],
+    "executor_statuses": [],
+    "evaluator_summary": {
+      "goal_completion_rate": null,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": null,
+      "notes": [
+        "Low logging consistency; aim to log daily."
+      ]
+    }
+  },
+  {
+    "date": "2025-11-02 06:38:10",
+    "raw_text": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better.",
+    "reflection": {
+      "summary": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better.",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [],
+      "mood_score": 0.55,
+      "subjectivity": 0.55,
+      "polarity": 0.1
+    },
+    "rag_retrieved": [],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "status": "missed"
+      },
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.0,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-11-02 06:38:10",
+    "raw_text": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm.",
+    "reflection": {
+      "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm.",
+      "suggestions": [
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [],
+      "mood_score": 0.75,
+      "subjectivity": 0.617,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.0741,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better."
+      },
+      {
+        "score": 0.0408,
+        "date": "2025-11-02 06:33:21",
+        "summary": "had classes till the afternoon. slept for some time."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.5,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily."
+      ]
+    }
+  },
+  {
+    "date": "2025-11-02 06:38:10",
+    "raw_text": "Tiring day: long meetings, little studying, socialized with friends, felt drained but had a short walk.",
+    "reflection": {
+      "summary": "Tiring day: long meetings, little studying, socialized with friends, felt drained but had a short walk.",
+      "suggestions": [
+        "Reflect on which social interactions were energizing vs draining."
+      ],
+      "activities": [
+        "Tiring day: long meetings, little studying, socialized with friends, felt drained but had a short walk"
+      ],
+      "mood_score": 0.46,
+      "subjectivity": 0.4,
+      "polarity": -0.079
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.2308,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.1538,
+        "date": "2025-11-02 06:33:21",
+        "summary": "had classes till the afternoon. slept for some time."
+      },
+      {
+        "score": 0.1404,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "type": "productivity",
+        "priority": 1
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "type": "social",
+        "priority": 4
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "partial"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.333,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-18 08:03:35",
+    "raw_text": "Had a hectic day with back-to-back classes and lab work, felt exhausted but satisfied with progress.",
+    "reflection": {
+      "summary": "Had a hectic day with back-to-back classes and lab work, felt exhausted but satisfied with progress.",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Had a hectic day with back-to-back classes and lab work, felt exhausted but satisfied with progress"
+      ],
+      "mood_score": 0.525,
+      "subjectivity": 0.85,
+      "polarity": 0.05
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.2593,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.2069,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Tiring day: long meetings, little studying, socialized with friends, felt drained but had a short walk."
+      },
+      {
+        "score": 0.1695,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "status": "missed"
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.25,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-19 08:03:35",
+    "raw_text": "Spent the morning revising chemistry notes and coding in the evening. Felt productive overall.",
+    "reflection": {
+      "summary": "Spent the morning revising chemistry notes and coding in the evening. Felt productive overall.",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Felt productive overall"
+      ],
+      "mood_score": 0.475,
+      "subjectivity": 0.05,
+      "polarity": -0.05
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.1818,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better."
+      },
+      {
+        "score": 0.16,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.0727,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Had a hectic day with back-to-back classes and lab work, felt exhausted but satisfied with progress."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.2,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-20 08:03:35",
+    "raw_text": "Relaxed Sunday, watched a movie, did some light reading, felt calm and recharged.",
+    "reflection": {
+      "summary": "Relaxed Sunday, watched a movie, did some light reading, felt calm and recharged.",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [],
+      "mood_score": 0.675,
+      "subjectivity": 0.725,
+      "polarity": 0.35
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.1633,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.12,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Spent the morning revising chemistry notes and coding in the evening. Felt productive overall."
+      },
+      {
+        "score": 0.1111,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.333,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-21 08:03:35",
+    "raw_text": "Presented my project in class, received good feedback, felt accomplished.",
+    "reflection": {
+      "summary": "Presented my project in class, received good feedback, felt accomplished.",
+      "suggestions": [
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [],
+      "mood_score": 0.725,
+      "subjectivity": 0.55,
+      "polarity": 0.45
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.1176,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better."
+      },
+      {
+        "score": 0.087,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.0851,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Spent the morning revising chemistry notes and coding in the evening. Felt productive overall."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.429,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-22 08:03:35",
+    "raw_text": "Had trouble focusing on studies today, kept getting distracted. Need to plan better tomorrow.",
+    "reflection": {
+      "summary": "Had trouble focusing on studies today, kept getting distracted. Need to plan better tomorrow.",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Need to plan better tomorrow"
+      ],
+      "mood_score": 0.575,
+      "subjectivity": 0.35,
+      "polarity": 0.15
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.1091,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better."
+      },
+      {
+        "score": 0.1091,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Had a hectic day with back-to-back classes and lab work, felt exhausted but satisfied with progress."
+      },
+      {
+        "score": 0.08,
+        "date": "2025-11-02 06:33:21",
+        "summary": "had classes till the afternoon. slept for some time."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.375,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-23 08:03:35",
+    "raw_text": "Woke up early, went for a jog, attended all lectures, felt very energetic and motivated.",
+    "reflection": {
+      "summary": "Woke up early, went for a jog, attended all lectures, felt very energetic and motivated.",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [],
+      "mood_score": 0.688,
+      "subjectivity": 0.475,
+      "polarity": 0.375
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.2143,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better."
+      },
+      {
+        "score": 0.1569,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Relaxed Sunday, watched a movie, did some light reading, felt calm and recharged."
+      },
+      {
+        "score": 0.1538,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Spent the morning revising chemistry notes and coding in the evening. Felt productive overall."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.333,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-24 08:03:35",
+    "raw_text": "Struggled with an assignment but managed to complete it late night. Slightly stressed but relieved.",
+    "reflection": {
+      "summary": "Struggled with an assignment but managed to complete it late night. Slightly stressed but relieved.",
+      "suggestions": [
+        "Include a short restorative activity (20-min walk or break) tomorrow.",
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [
+        "Slightly stressed but relieved"
+      ],
+      "mood_score": 0.439,
+      "subjectivity": 0.389,
+      "polarity": -0.122
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.2784,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.1429,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better."
+      },
+      {
+        "score": 0.1091,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Tiring day: long meetings, little studying, socialized with friends, felt drained but had a short walk."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "type": "wellness",
+        "priority": 3
+      },
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.3,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-25 08:03:35",
+    "raw_text": "Took some time off to rest, met friends in the evening, felt relaxed and social.",
+    "reflection": {
+      "summary": "Took some time off to rest, met friends in the evening, felt relaxed and social.",
+      "suggestions": [
+        "Reflect on which social interactions were energizing vs draining."
+      ],
+      "activities": [],
+      "mood_score": 0.517,
+      "subjectivity": 0.067,
+      "polarity": 0.033
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.2308,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Spent the morning revising chemistry notes and coding in the evening. Felt productive overall."
+      },
+      {
+        "score": 0.1961,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Relaxed Sunday, watched a movie, did some light reading, felt calm and recharged."
+      },
+      {
+        "score": 0.1786,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "type": "productivity",
+        "priority": 1
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "type": "social",
+        "priority": 4
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "status": "missed"
+      },
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.273,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-26 08:03:35",
+    "raw_text": "Spent the whole day preparing for the exam, confident about my preparation level.",
+    "reflection": {
+      "summary": "Spent the whole day preparing for the exam, confident about my preparation level.",
+      "suggestions": [
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [],
+      "mood_score": 0.6,
+      "subjectivity": 0.444,
+      "polarity": 0.2
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.16,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Spent the morning revising chemistry notes and coding in the evening. Felt productive overall."
+      },
+      {
+        "score": 0.0816,
+        "date": "2025-11-02 06:33:21",
+        "summary": "had classes till the afternoon. slept for some time."
+      },
+      {
+        "score": 0.0741,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Had a hectic day with back-to-back classes and lab work, felt exhausted but satisfied with progress."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "status": "missed"
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.25,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-27 08:03:35",
+    "raw_text": "Wasn’t feeling well, skipped studying. Watched TV and tried to recover.",
+    "reflection": {
+      "summary": "Wasn’t feeling well, skipped studying. Watched TV and tried to recover.",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Wasn’t feeling well, skipped studying",
+        "Watched TV and tried to recover"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.125,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Relaxed Sunday, watched a movie, did some light reading, felt calm and recharged."
+      },
+      {
+        "score": 0.0816,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Spent the morning revising chemistry notes and coding in the evening. Felt productive overall."
+      },
+      {
+        "score": 0.08,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Woke up early, went for a jog, attended all lectures, felt very energetic and motivated."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.231,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-28 08:03:35",
+    "raw_text": "Worked on my research project, made progress but code didn’t compile initially. Debugged and succeeded.",
+    "reflection": {
+      "summary": "Worked on my research project, made progress but code didn’t compile initially. Debugged and succeeded.",
+      "suggestions": [
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [
+        "Worked on my research project, made progress but code didn’t compile initially",
+        "Debugged and succeeded"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.2816,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Presented my project in class, received good feedback, felt accomplished."
+      },
+      {
+        "score": 0.1053,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Had a hectic day with back-to-back classes and lab work, felt exhausted but satisfied with progress."
+      },
+      {
+        "score": 0.0784,
+        "date": "2025-11-02 08:03:36",
+        "summary": "Wasn’t feeling well, skipped studying. Watched TV and tried to recover."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.286,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-29 08:03:35",
+    "raw_text": "Busy day with meetings, submitted my report on time. Slept late but satisfied.",
+    "reflection": {
+      "summary": "Busy day with meetings, submitted my report on time. Slept late but satisfied.",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Slept late but satisfied"
+      ],
+      "mood_score": 0.55,
+      "subjectivity": 0.633,
+      "polarity": 0.1
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.1887,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Tiring day: long meetings, little studying, socialized with friends, felt drained but had a short walk."
+      },
+      {
+        "score": 0.1538,
+        "date": "2025-11-02 08:03:36",
+        "summary": "Worked on my research project, made progress but code didn’t compile initially. Debugged and succeeded."
+      },
+      {
+        "score": 0.1481,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Had a hectic day with back-to-back classes and lab work, felt exhausted but satisfied with progress."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.333,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-30 08:03:35",
+    "raw_text": "Practiced mindfulness meditation, helped me feel centered and less anxious.",
+    "reflection": {
+      "summary": "Practiced mindfulness meditation, helped me feel centered and less anxious.",
+      "suggestions": [
+        "Include a short restorative activity (20-min walk or break) tomorrow."
+      ],
+      "activities": [],
+      "mood_score": 0.396,
+      "subjectivity": 0.533,
+      "polarity": -0.208
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.087,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.0444,
+        "date": "2025-11-02 08:03:36",
+        "summary": "Wasn’t feeling well, skipped studying. Watched TV and tried to recover."
+      },
+      {
+        "score": 0.0435,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Relaxed Sunday, watched a movie, did some light reading, felt calm and recharged."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "type": "productivity",
+        "priority": 1
+      },
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "type": "wellness",
+        "priority": 3
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.312,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-31 08:03:35",
+    "raw_text": "Revised two subjects and helped a friend with notes. Felt useful and balanced.",
+    "reflection": {
+      "summary": "Revised two subjects and helped a friend with notes. Felt useful and balanced.",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Felt useful and balanced"
+      ],
+      "mood_score": 0.65,
+      "subjectivity": 0.0,
+      "polarity": 0.3
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.2,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Spent the morning revising chemistry notes and coding in the evening. Felt productive overall."
+      },
+      {
+        "score": 0.1633,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.1633,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Relaxed Sunday, watched a movie, did some light reading, felt calm and recharged."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "status": "missed"
+      },
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.294,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-11-01 08:03:35",
+    "raw_text": "Had a light day, organized my workspace and planned tasks for next week. Felt ready.",
+    "reflection": {
+      "summary": "Had a light day, organized my workspace and planned tasks for next week. Felt ready.",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Felt ready"
+      ],
+      "mood_score": 0.6,
+      "subjectivity": 0.4,
+      "polarity": 0.2
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.25,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Had a hectic day with back-to-back classes and lab work, felt exhausted but satisfied with progress."
+      },
+      {
+        "score": 0.2353,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.2353,
+        "date": "2025-11-02 08:03:35",
+        "summary": "Relaxed Sunday, watched a movie, did some light reading, felt calm and recharged."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.278,
+      "consistency": 0.143,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Low logging consistency; aim to log daily.",
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-13 08:10:37",
+    "raw_text": "Had a productive day studying and exercising. (day 1)",
+    "reflection": {
+      "summary": "Had a productive day studying and exercising. (day 1)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "(day 1)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.2222,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.1702,
+        "date": "2025-11-01 08:03:35",
+        "summary": "Had a light day, organized my workspace and planned tasks for next week. Felt ready."
+      },
+      {
+        "score": 0.1633,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Tiring day: long meetings, little studying, socialized with friends, felt drained but had a short walk."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.3,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-14 08:10:37",
+    "raw_text": "Felt tired due to long classes and late-night project work. (day 2)",
+    "reflection": {
+      "summary": "Felt tired due to long classes and late-night project work. (day 2)",
+      "suggestions": [
+        "Include a short restorative activity (20-min walk or break) tomorrow.",
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [
+        "Felt tired due to long classes and late-night project work",
+        "(day 2)"
+      ],
+      "mood_score": 0.404,
+      "subjectivity": 0.492,
+      "polarity": -0.192
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.287,
+        "date": "2025-10-21 08:03:35",
+        "summary": "Presented my project in class, received good feedback, felt accomplished."
+      },
+      {
+        "score": 0.2769,
+        "date": "2025-10-28 08:03:35",
+        "summary": "Worked on my research project, made progress but code didn’t compile initially. Debugged and succeeded."
+      },
+      {
+        "score": 0.2222,
+        "date": "2025-10-18 08:03:35",
+        "summary": "Had a hectic day with back-to-back classes and lab work, felt exhausted but satisfied with progress."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "type": "wellness",
+        "priority": 3
+      },
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.273,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-15 08:10:37",
+    "raw_text": "Enjoyed quality time with friends; relaxed and recharged. (day 3)",
+    "reflection": {
+      "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 3)",
+      "suggestions": [
+        "Reflect on which social interactions were energizing vs draining."
+      ],
+      "activities": [
+        "Enjoyed quality time with friends",
+        "relaxed and recharged",
+        "(day 3)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.7,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.2174,
+        "date": "2025-10-20 08:03:35",
+        "summary": "Relaxed Sunday, watched a movie, did some light reading, felt calm and recharged."
+      },
+      {
+        "score": 0.1905,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.1739,
+        "date": "2025-10-29 08:03:35",
+        "summary": "Busy day with meetings, submitted my report on time. Slept late but satisfied."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "type": "productivity",
+        "priority": 1
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "type": "social",
+        "priority": 4
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "status": "missed"
+      },
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.25,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-16 08:10:37",
+    "raw_text": "Faced difficulty focusing today; must plan breaks better. (day 4)",
+    "reflection": {
+      "summary": "Faced difficulty focusing today; must plan breaks better. (day 4)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Faced difficulty focusing today",
+        "must plan breaks better",
+        "(day 4)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.5,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.1702,
+        "date": "2025-10-22 08:03:35",
+        "summary": "Had trouble focusing on studies today, kept getting distracted. Need to plan better tomorrow."
+      },
+      {
+        "score": 0.0476,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.0455,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 3)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "status": "missed"
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.231,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-17 08:10:37",
+    "raw_text": "Completed assignments before deadline; satisfied and calm. (day 5)",
+    "reflection": {
+      "summary": "Completed assignments before deadline; satisfied and calm. (day 5)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Completed assignments before deadline",
+        "satisfied and calm",
+        "(day 5)"
+      ],
+      "mood_score": 0.7,
+      "subjectivity": 0.875,
+      "polarity": 0.4
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.1333,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.12,
+        "date": "2025-10-18 08:03:35",
+        "summary": "Had a hectic day with back-to-back classes and lab work, felt exhausted but satisfied with progress."
+      },
+      {
+        "score": 0.0976,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.286,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-18 08:10:37",
+    "raw_text": "Skipped gym; read a new article on AI and took notes. (day 6)",
+    "reflection": {
+      "summary": "Skipped gym; read a new article on AI and took notes. (day 6)",
+      "suggestions": [
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [
+        "Skipped gym",
+        "read a new article on AI and took notes",
+        "(day 6)"
+      ],
+      "mood_score": 0.568,
+      "subjectivity": 0.455,
+      "polarity": 0.136
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.1333,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.1333,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 5)"
+      },
+      {
+        "score": 0.1277,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 3)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.267,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-19 08:10:37",
+    "raw_text": "Worked on coding task; encountered bugs but fixed them. (day 7)",
+    "reflection": {
+      "summary": "Worked on coding task; encountered bugs but fixed them. (day 7)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Worked on coding task",
+        "encountered bugs but fixed them",
+        "(day 7)"
+      ],
+      "mood_score": 0.55,
+      "subjectivity": 0.2,
+      "polarity": 0.1
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.1569,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Tiring day: long meetings, little studying, socialized with friends, felt drained but had a short walk."
+      },
+      {
+        "score": 0.1333,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 3)"
+      },
+      {
+        "score": 0.1277,
+        "date": "2025-10-29 08:03:35",
+        "summary": "Busy day with meetings, submitted my report on time. Slept late but satisfied."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.312,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-20 08:10:37",
+    "raw_text": "Went for an evening walk; cleared my mind and planned tomorrow. (day 8)",
+    "reflection": {
+      "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 8)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Went for an evening walk",
+        "cleared my mind and planned tomorrow",
+        "(day 8)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 1.0,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.2353,
+        "date": "2025-11-01 08:03:35",
+        "summary": "Had a light day, organized my workspace and planned tasks for next week. Felt ready."
+      },
+      {
+        "score": 0.2222,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.2222,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 5)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "partial"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.294,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-21 08:10:37",
+    "raw_text": "Studied chemistry for 3 hours; revision helped me feel confident. (day 9)",
+    "reflection": {
+      "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 9)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Studied chemistry for 3 hours",
+        "revision helped me feel confident",
+        "(day 9)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.833,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.1364,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.1364,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 5)"
+      },
+      {
+        "score": 0.1333,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Faced difficulty focusing today; must plan breaks better. (day 4)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.278,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-22 08:10:37",
+    "raw_text": "Had a stressful day managing multiple deadlines. (day 10)",
+    "reflection": {
+      "summary": "Had a stressful day managing multiple deadlines. (day 10)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "(day 10)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.1951,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.1333,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.1277,
+        "date": "2025-11-01 08:03:35",
+        "summary": "Had a light day, organized my workspace and planned tasks for next week. Felt ready."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.263,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-23 08:10:37",
+    "raw_text": "Had a productive day studying and exercising. (day 11)",
+    "reflection": {
+      "summary": "Had a productive day studying and exercising. (day 11)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "(day 11)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.2222,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.1951,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a stressful day managing multiple deadlines. (day 10)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.25,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-24 08:10:37",
+    "raw_text": "Felt tired due to long classes and late-night project work. (day 12)",
+    "reflection": {
+      "summary": "Felt tired due to long classes and late-night project work. (day 12)",
+      "suggestions": [
+        "Include a short restorative activity (20-min walk or break) tomorrow.",
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [
+        "Felt tired due to long classes and late-night project work",
+        "(day 12)"
+      ],
+      "mood_score": 0.404,
+      "subjectivity": 0.492,
+      "polarity": -0.192
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.7478,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Felt tired due to long classes and late-night project work. (day 2)"
+      },
+      {
+        "score": 0.287,
+        "date": "2025-10-21 08:03:35",
+        "summary": "Presented my project in class, received good feedback, felt accomplished."
+      },
+      {
+        "score": 0.2769,
+        "date": "2025-10-28 08:03:35",
+        "summary": "Worked on my research project, made progress but code didn’t compile initially. Debugged and succeeded."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "type": "wellness",
+        "priority": 3
+      },
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.238,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-25 08:10:37",
+    "raw_text": "Enjoyed quality time with friends; relaxed and recharged. (day 13)",
+    "reflection": {
+      "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 13)",
+      "suggestions": [
+        "Reflect on which social interactions were energizing vs draining."
+      ],
+      "activities": [
+        "Enjoyed quality time with friends",
+        "relaxed and recharged",
+        "(day 13)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.7,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4091,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 3)"
+      },
+      {
+        "score": 0.1739,
+        "date": "2025-10-20 08:03:35",
+        "summary": "Relaxed Sunday, watched a movie, did some light reading, felt calm and recharged."
+      },
+      {
+        "score": 0.1633,
+        "date": "2025-10-25 08:03:35",
+        "summary": "Took some time off to rest, met friends in the evening, felt relaxed and social."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "type": "productivity",
+        "priority": 1
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "type": "social",
+        "priority": 4
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "status": "missed"
+      },
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.227,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-26 08:10:37",
+    "raw_text": "Faced difficulty focusing today; must plan breaks better. (day 14)",
+    "reflection": {
+      "summary": "Faced difficulty focusing today; must plan breaks better. (day 14)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Faced difficulty focusing today",
+        "must plan breaks better",
+        "(day 14)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.5,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4186,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Faced difficulty focusing today; must plan breaks better. (day 4)"
+      },
+      {
+        "score": 0.1702,
+        "date": "2025-10-22 08:03:35",
+        "summary": "Had trouble focusing on studies today, kept getting distracted. Need to plan better tomorrow."
+      },
+      {
+        "score": 0.0476,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "status": "missed"
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.217,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-27 08:10:37",
+    "raw_text": "Completed assignments before deadline; satisfied and calm. (day 15)",
+    "reflection": {
+      "summary": "Completed assignments before deadline; satisfied and calm. (day 15)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Completed assignments before deadline",
+        "satisfied and calm",
+        "(day 15)"
+      ],
+      "mood_score": 0.7,
+      "subjectivity": 0.875,
+      "polarity": 0.4
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.5902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 5)"
+      },
+      {
+        "score": 0.1333,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      },
+      {
+        "score": 0.12,
+        "date": "2025-10-18 08:03:35",
+        "summary": "Had a hectic day with back-to-back classes and lab work, felt exhausted but satisfied with progress."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.25,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-28 08:10:37",
+    "raw_text": "Skipped gym; read a new article on AI and took notes. (day 16)",
+    "reflection": {
+      "summary": "Skipped gym; read a new article on AI and took notes. (day 16)",
+      "suggestions": [
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [
+        "Skipped gym",
+        "read a new article on AI and took notes",
+        "(day 16)"
+      ],
+      "mood_score": 0.568,
+      "subjectivity": 0.455,
+      "polarity": 0.136
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Skipped gym; read a new article on AI and took notes. (day 6)"
+      },
+      {
+        "score": 0.1333,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.1333,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 5)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.24,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-29 08:10:37",
+    "raw_text": "Worked on coding task; encountered bugs but fixed them. (day 17)",
+    "reflection": {
+      "summary": "Worked on coding task; encountered bugs but fixed them. (day 17)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Worked on coding task",
+        "encountered bugs but fixed them",
+        "(day 17)"
+      ],
+      "mood_score": 0.55,
+      "subjectivity": 0.2,
+      "polarity": 0.1
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4444,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Worked on coding task; encountered bugs but fixed them. (day 7)"
+      },
+      {
+        "score": 0.1569,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Tiring day: long meetings, little studying, socialized with friends, felt drained but had a short walk."
+      },
+      {
+        "score": 0.1333,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 3)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.269,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-09-30 08:10:37",
+    "raw_text": "Went for an evening walk; cleared my mind and planned tomorrow. (day 18)",
+    "reflection": {
+      "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 18)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Went for an evening walk",
+        "cleared my mind and planned tomorrow",
+        "(day 18)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 8)"
+      },
+      {
+        "score": 0.2353,
+        "date": "2025-11-01 08:03:35",
+        "summary": "Had a light day, organized my workspace and planned tasks for next week. Felt ready."
+      },
+      {
+        "score": 0.2222,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "partial"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.259,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-01 08:10:37",
+    "raw_text": "Studied chemistry for 3 hours; revision helped me feel confident. (day 19)",
+    "reflection": {
+      "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 19)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Studied chemistry for 3 hours",
+        "revision helped me feel confident",
+        "(day 19)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.833,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4681,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 9)"
+      },
+      {
+        "score": 0.1364,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.1364,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 5)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.25,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-02 08:10:37",
+    "raw_text": "Had a stressful day managing multiple deadlines. (day 20)",
+    "reflection": {
+      "summary": "Had a stressful day managing multiple deadlines. (day 20)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "(day 20)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a stressful day managing multiple deadlines. (day 10)"
+      },
+      {
+        "score": 0.1951,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.1951,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 11)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.241,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-03 08:10:37",
+    "raw_text": "Had a productive day studying and exercising. (day 21)",
+    "reflection": {
+      "summary": "Had a productive day studying and exercising. (day 21)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "(day 21)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 11)"
+      },
+      {
+        "score": 0.2222,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.233,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-04 08:10:37",
+    "raw_text": "Felt tired due to long classes and late-night project work. (day 22)",
+    "reflection": {
+      "summary": "Felt tired due to long classes and late-night project work. (day 22)",
+      "suggestions": [
+        "Include a short restorative activity (20-min walk or break) tomorrow.",
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [
+        "Felt tired due to long classes and late-night project work",
+        "(day 22)"
+      ],
+      "mood_score": 0.404,
+      "subjectivity": 0.492,
+      "polarity": -0.192
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.7478,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Felt tired due to long classes and late-night project work. (day 2)"
+      },
+      {
+        "score": 0.7478,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Felt tired due to long classes and late-night project work. (day 12)"
+      },
+      {
+        "score": 0.287,
+        "date": "2025-10-21 08:03:35",
+        "summary": "Presented my project in class, received good feedback, felt accomplished."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "type": "wellness",
+        "priority": 3
+      },
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.226,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-05 08:10:37",
+    "raw_text": "Enjoyed quality time with friends; relaxed and recharged. (day 23)",
+    "reflection": {
+      "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 23)",
+      "suggestions": [
+        "Reflect on which social interactions were energizing vs draining."
+      ],
+      "activities": [
+        "Enjoyed quality time with friends",
+        "relaxed and recharged",
+        "(day 23)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.7,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4091,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 3)"
+      },
+      {
+        "score": 0.4091,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 13)"
+      },
+      {
+        "score": 0.1739,
+        "date": "2025-10-20 08:03:35",
+        "summary": "Relaxed Sunday, watched a movie, did some light reading, felt calm and recharged."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "type": "productivity",
+        "priority": 1
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "type": "social",
+        "priority": 4
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "status": "missed"
+      },
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.219,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-06 08:10:37",
+    "raw_text": "Faced difficulty focusing today; must plan breaks better. (day 24)",
+    "reflection": {
+      "summary": "Faced difficulty focusing today; must plan breaks better. (day 24)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Faced difficulty focusing today",
+        "must plan breaks better",
+        "(day 24)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.5,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4186,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Faced difficulty focusing today; must plan breaks better. (day 4)"
+      },
+      {
+        "score": 0.4186,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Faced difficulty focusing today; must plan breaks better. (day 14)"
+      },
+      {
+        "score": 0.1702,
+        "date": "2025-10-22 08:03:35",
+        "summary": "Had trouble focusing on studies today, kept getting distracted. Need to plan better tomorrow."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "status": "missed"
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.212,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-07 08:10:37",
+    "raw_text": "Completed assignments before deadline; satisfied and calm. (day 25)",
+    "reflection": {
+      "summary": "Completed assignments before deadline; satisfied and calm. (day 25)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Completed assignments before deadline",
+        "satisfied and calm",
+        "(day 25)"
+      ],
+      "mood_score": 0.7,
+      "subjectivity": 0.875,
+      "polarity": 0.4
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.5902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 5)"
+      },
+      {
+        "score": 0.5902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 15)"
+      },
+      {
+        "score": 0.1333,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Good day: finished assignment, practiced coding, had healthy meals, felt productive and calm."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.235,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-08 08:10:37",
+    "raw_text": "Skipped gym; read a new article on AI and took notes. (day 26)",
+    "reflection": {
+      "summary": "Skipped gym; read a new article on AI and took notes. (day 26)",
+      "suggestions": [
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [
+        "Skipped gym",
+        "read a new article on AI and took notes",
+        "(day 26)"
+      ],
+      "mood_score": 0.568,
+      "subjectivity": 0.455,
+      "polarity": 0.136
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Skipped gym; read a new article on AI and took notes. (day 6)"
+      },
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Skipped gym; read a new article on AI and took notes. (day 16)"
+      },
+      {
+        "score": 0.1333,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.229,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-09 08:10:37",
+    "raw_text": "Worked on coding task; encountered bugs but fixed them. (day 27)",
+    "reflection": {
+      "summary": "Worked on coding task; encountered bugs but fixed them. (day 27)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Worked on coding task",
+        "encountered bugs but fixed them",
+        "(day 27)"
+      ],
+      "mood_score": 0.55,
+      "subjectivity": 0.2,
+      "polarity": 0.1
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4444,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Worked on coding task; encountered bugs but fixed them. (day 7)"
+      },
+      {
+        "score": 0.4444,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Worked on coding task; encountered bugs but fixed them. (day 17)"
+      },
+      {
+        "score": 0.1569,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Tiring day: long meetings, little studying, socialized with friends, felt drained but had a short walk."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.25,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-10 08:10:37",
+    "raw_text": "Went for an evening walk; cleared my mind and planned tomorrow. (day 28)",
+    "reflection": {
+      "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 28)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Went for an evening walk",
+        "cleared my mind and planned tomorrow",
+        "(day 28)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 8)"
+      },
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 18)"
+      },
+      {
+        "score": 0.2353,
+        "date": "2025-11-01 08:03:35",
+        "summary": "Had a light day, organized my workspace and planned tasks for next week. Felt ready."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "partial"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.243,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-11 08:10:37",
+    "raw_text": "Studied chemistry for 3 hours; revision helped me feel confident. (day 29)",
+    "reflection": {
+      "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 29)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Studied chemistry for 3 hours",
+        "revision helped me feel confident",
+        "(day 29)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.833,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4681,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 9)"
+      },
+      {
+        "score": 0.4681,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 19)"
+      },
+      {
+        "score": 0.1364,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.237,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-12 08:10:37",
+    "raw_text": "Had a stressful day managing multiple deadlines. (day 30)",
+    "reflection": {
+      "summary": "Had a stressful day managing multiple deadlines. (day 30)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "(day 30)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a stressful day managing multiple deadlines. (day 10)"
+      },
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a stressful day managing multiple deadlines. (day 20)"
+      },
+      {
+        "score": 0.1951,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.231,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-13 08:10:37",
+    "raw_text": "Had a productive day studying and exercising. (day 31)",
+    "reflection": {
+      "summary": "Had a productive day studying and exercising. (day 31)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "(day 31)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 11)"
+      },
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 21)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.225,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-14 08:10:37",
+    "raw_text": "Felt tired due to long classes and late-night project work. (day 32)",
+    "reflection": {
+      "summary": "Felt tired due to long classes and late-night project work. (day 32)",
+      "suggestions": [
+        "Include a short restorative activity (20-min walk or break) tomorrow.",
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [
+        "Felt tired due to long classes and late-night project work",
+        "(day 32)"
+      ],
+      "mood_score": 0.404,
+      "subjectivity": 0.492,
+      "polarity": -0.192
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.7478,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Felt tired due to long classes and late-night project work. (day 2)"
+      },
+      {
+        "score": 0.7478,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Felt tired due to long classes and late-night project work. (day 12)"
+      },
+      {
+        "score": 0.7478,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Felt tired due to long classes and late-night project work. (day 22)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "type": "wellness",
+        "priority": 3
+      },
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.22,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-15 08:10:37",
+    "raw_text": "Enjoyed quality time with friends; relaxed and recharged. (day 33)",
+    "reflection": {
+      "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 33)",
+      "suggestions": [
+        "Reflect on which social interactions were energizing vs draining."
+      ],
+      "activities": [
+        "Enjoyed quality time with friends",
+        "relaxed and recharged",
+        "(day 33)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.7,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4091,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 3)"
+      },
+      {
+        "score": 0.4091,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 13)"
+      },
+      {
+        "score": 0.4091,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 23)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "type": "productivity",
+        "priority": 1
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "type": "social",
+        "priority": 4
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "status": "missed"
+      },
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.214,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-16 08:10:37",
+    "raw_text": "Faced difficulty focusing today; must plan breaks better. (day 34)",
+    "reflection": {
+      "summary": "Faced difficulty focusing today; must plan breaks better. (day 34)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Faced difficulty focusing today",
+        "must plan breaks better",
+        "(day 34)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.5,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4186,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Faced difficulty focusing today; must plan breaks better. (day 4)"
+      },
+      {
+        "score": 0.4186,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Faced difficulty focusing today; must plan breaks better. (day 14)"
+      },
+      {
+        "score": 0.4186,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Faced difficulty focusing today; must plan breaks better. (day 24)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "status": "missed"
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.209,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-17 08:10:37",
+    "raw_text": "Completed assignments before deadline; satisfied and calm. (day 35)",
+    "reflection": {
+      "summary": "Completed assignments before deadline; satisfied and calm. (day 35)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Completed assignments before deadline",
+        "satisfied and calm",
+        "(day 35)"
+      ],
+      "mood_score": 0.7,
+      "subjectivity": 0.875,
+      "polarity": 0.4
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.5902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 5)"
+      },
+      {
+        "score": 0.5902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 15)"
+      },
+      {
+        "score": 0.5902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 25)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.227,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-18 08:10:37",
+    "raw_text": "Skipped gym; read a new article on AI and took notes. (day 36)",
+    "reflection": {
+      "summary": "Skipped gym; read a new article on AI and took notes. (day 36)",
+      "suggestions": [
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [
+        "Skipped gym",
+        "read a new article on AI and took notes",
+        "(day 36)"
+      ],
+      "mood_score": 0.568,
+      "subjectivity": 0.455,
+      "polarity": 0.136
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Skipped gym; read a new article on AI and took notes. (day 6)"
+      },
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Skipped gym; read a new article on AI and took notes. (day 16)"
+      },
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Skipped gym; read a new article on AI and took notes. (day 26)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.222,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-19 08:10:37",
+    "raw_text": "Worked on coding task; encountered bugs but fixed them. (day 37)",
+    "reflection": {
+      "summary": "Worked on coding task; encountered bugs but fixed them. (day 37)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Worked on coding task",
+        "encountered bugs but fixed them",
+        "(day 37)"
+      ],
+      "mood_score": 0.55,
+      "subjectivity": 0.2,
+      "polarity": 0.1
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4444,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Worked on coding task; encountered bugs but fixed them. (day 7)"
+      },
+      {
+        "score": 0.4444,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Worked on coding task; encountered bugs but fixed them. (day 17)"
+      },
+      {
+        "score": 0.4444,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Worked on coding task; encountered bugs but fixed them. (day 27)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.239,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-20 08:10:37",
+    "raw_text": "Went for an evening walk; cleared my mind and planned tomorrow. (day 38)",
+    "reflection": {
+      "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 38)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Went for an evening walk",
+        "cleared my mind and planned tomorrow",
+        "(day 38)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 8)"
+      },
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 18)"
+      },
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 28)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "partial"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.234,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-21 08:10:37",
+    "raw_text": "Studied chemistry for 3 hours; revision helped me feel confident. (day 39)",
+    "reflection": {
+      "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 39)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Studied chemistry for 3 hours",
+        "revision helped me feel confident",
+        "(day 39)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.833,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4681,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 9)"
+      },
+      {
+        "score": 0.4681,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 19)"
+      },
+      {
+        "score": 0.4681,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 29)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.229,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-22 08:10:37",
+    "raw_text": "Had a stressful day managing multiple deadlines. (day 40)",
+    "reflection": {
+      "summary": "Had a stressful day managing multiple deadlines. (day 40)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "(day 40)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a stressful day managing multiple deadlines. (day 10)"
+      },
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a stressful day managing multiple deadlines. (day 20)"
+      },
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a stressful day managing multiple deadlines. (day 30)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.224,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-23 08:10:37",
+    "raw_text": "Had a productive day studying and exercising. (day 41)",
+    "reflection": {
+      "summary": "Had a productive day studying and exercising. (day 41)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "(day 41)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 1)"
+      },
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 11)"
+      },
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a productive day studying and exercising. (day 21)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.22,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-24 08:10:37",
+    "raw_text": "Felt tired due to long classes and late-night project work. (day 42)",
+    "reflection": {
+      "summary": "Felt tired due to long classes and late-night project work. (day 42)",
+      "suggestions": [
+        "Include a short restorative activity (20-min walk or break) tomorrow.",
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [
+        "Felt tired due to long classes and late-night project work",
+        "(day 42)"
+      ],
+      "mood_score": 0.404,
+      "subjectivity": 0.492,
+      "polarity": -0.192
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.7478,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Felt tired due to long classes and late-night project work. (day 2)"
+      },
+      {
+        "score": 0.7478,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Felt tired due to long classes and late-night project work. (day 12)"
+      },
+      {
+        "score": 0.7478,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Felt tired due to long classes and late-night project work. (day 22)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "type": "wellness",
+        "priority": 3
+      },
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.216,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-25 08:10:37",
+    "raw_text": "Enjoyed quality time with friends; relaxed and recharged. (day 43)",
+    "reflection": {
+      "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 43)",
+      "suggestions": [
+        "Reflect on which social interactions were energizing vs draining."
+      ],
+      "activities": [
+        "Enjoyed quality time with friends",
+        "relaxed and recharged",
+        "(day 43)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.7,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4091,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 3)"
+      },
+      {
+        "score": 0.4091,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 13)"
+      },
+      {
+        "score": 0.4091,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Enjoyed quality time with friends; relaxed and recharged. (day 23)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "type": "productivity",
+        "priority": 1
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "type": "social",
+        "priority": 4
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Take a 20-min restorative walk or short rest",
+        "status": "missed"
+      },
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.212,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-26 08:10:37",
+    "raw_text": "Faced difficulty focusing today; must plan breaks better. (day 44)",
+    "reflection": {
+      "summary": "Faced difficulty focusing today; must plan breaks better. (day 44)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Faced difficulty focusing today",
+        "must plan breaks better",
+        "(day 44)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.5,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4186,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Faced difficulty focusing today; must plan breaks better. (day 4)"
+      },
+      {
+        "score": 0.4186,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Faced difficulty focusing today; must plan breaks better. (day 14)"
+      },
+      {
+        "score": 0.4186,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Faced difficulty focusing today; must plan breaks better. (day 24)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Complete one prioritized task (30-60 min)",
+        "status": "missed"
+      },
+      {
+        "goal": "Reflect on social energy after interactions (note feelings)",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.208,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-27 08:10:37",
+    "raw_text": "Completed assignments before deadline; satisfied and calm. (day 45)",
+    "reflection": {
+      "summary": "Completed assignments before deadline; satisfied and calm. (day 45)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Completed assignments before deadline",
+        "satisfied and calm",
+        "(day 45)"
+      ],
+      "mood_score": 0.7,
+      "subjectivity": 0.875,
+      "polarity": 0.4
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.639,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 5)"
+      },
+      {
+        "score": 0.639,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 15)"
+      },
+      {
+        "score": 0.639,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Completed assignments before deadline; satisfied and calm. (day 25)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.222,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-28 08:10:37",
+    "raw_text": "Skipped gym; read a new article on AI and took notes. (day 46)",
+    "reflection": {
+      "summary": "Skipped gym; read a new article on AI and took notes. (day 46)",
+      "suggestions": [
+        "Schedule a focused study block (45-60 min) with a short break."
+      ],
+      "activities": [
+        "Skipped gym",
+        "read a new article on AI and took notes",
+        "(day 46)"
+      ],
+      "mood_score": 0.568,
+      "subjectivity": 0.455,
+      "polarity": 0.136
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Skipped gym; read a new article on AI and took notes. (day 6)"
+      },
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Skipped gym; read a new article on AI and took notes. (day 16)"
+      },
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Skipped gym; read a new article on AI and took notes. (day 26)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.218,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-29 08:10:37",
+    "raw_text": "Worked on coding task; encountered bugs but fixed them. (day 47)",
+    "reflection": {
+      "summary": "Worked on coding task; encountered bugs but fixed them. (day 47)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Worked on coding task",
+        "encountered bugs but fixed them",
+        "(day 47)"
+      ],
+      "mood_score": 0.55,
+      "subjectivity": 0.2,
+      "polarity": 0.1
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4444,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Worked on coding task; encountered bugs but fixed them. (day 7)"
+      },
+      {
+        "score": 0.4444,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Worked on coding task; encountered bugs but fixed them. (day 17)"
+      },
+      {
+        "score": 0.4444,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Worked on coding task; encountered bugs but fixed them. (day 27)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "done"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.232,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-30 08:10:37",
+    "raw_text": "Went for an evening walk; cleared my mind and planned tomorrow. (day 48)",
+    "reflection": {
+      "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 48)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Went for an evening walk",
+        "cleared my mind and planned tomorrow",
+        "(day 48)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 8)"
+      },
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 18)"
+      },
+      {
+        "score": 0.4898,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Went for an evening walk; cleared my mind and planned tomorrow. (day 28)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "partial"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.228,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-10-31 08:10:37",
+    "raw_text": "Studied chemistry for 3 hours; revision helped me feel confident. (day 49)",
+    "reflection": {
+      "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 49)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "Studied chemistry for 3 hours",
+        "revision helped me feel confident",
+        "(day 49)"
+      ],
+      "mood_score": 0.75,
+      "subjectivity": 0.833,
+      "polarity": 0.5
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.4681,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 9)"
+      },
+      {
+        "score": 0.4681,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 19)"
+      },
+      {
+        "score": 0.4681,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Studied chemistry for 3 hours; revision helped me feel confident. (day 29)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.224,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-11-01 08:10:37",
+    "raw_text": "Had a stressful day managing multiple deadlines. (day 50)",
+    "reflection": {
+      "summary": "Had a stressful day managing multiple deadlines. (day 50)",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "(day 50)"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a stressful day managing multiple deadlines. (day 10)"
+      },
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a stressful day managing multiple deadlines. (day 20)"
+      },
+      {
+        "score": 0.3902,
+        "date": "2025-11-02 08:10:37",
+        "summary": "Had a stressful day managing multiple deadlines. (day 30)"
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.22,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  },
+  {
+    "date": "2025-11-02 08:11:41",
+    "raw_text": "i studied in morning. ate lunch and slept in the afternoon. played cricket in the evening",
+    "reflection": {
+      "summary": "i studied in morning. ate lunch and slept in the afternoon.",
+      "suggestions": [
+        "Write a short priority list (top 3) for tomorrow to maintain focus."
+      ],
+      "activities": [
+        "i studied in morning",
+        "played cricket in the evening"
+      ],
+      "mood_score": 0.5,
+      "subjectivity": 0.0,
+      "polarity": 0.0
+    },
+    "rag_retrieved": [
+      {
+        "score": 0.2807,
+        "date": "2025-11-02 06:38:10",
+        "summary": "Woke up late, missed morning class, studied in library, felt stressed, played cricket in evening and felt better."
+      },
+      {
+        "score": 0.2264,
+        "date": "2025-10-19 08:03:35",
+        "summary": "Spent the morning revising chemistry notes and coding in the evening. Felt productive overall."
+      },
+      {
+        "score": 0.1455,
+        "date": "2025-10-25 08:03:35",
+        "summary": "Took some time off to rest, met friends in the evening, felt relaxed and social."
+      }
+    ],
+    "planned_goals": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "type": "productivity",
+        "priority": 2
+      }
+    ],
+    "executor_statuses": [
+      {
+        "goal": "Do one focused study block (45 min) with a planned break",
+        "status": "missed"
+      }
+    ],
+    "evaluator_summary": {
+      "goal_completion_rate": 0.312,
+      "consistency": 1.0,
+      "avg_mood": 0.5,
+      "improvement_index": 0.0,
+      "notes": [
+        "Goal completion rate is low; try smaller, measurable goals."
+      ]
+    }
+  }
+]
